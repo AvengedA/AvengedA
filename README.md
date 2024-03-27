@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Data Science in a bootcamp that began in March!
+- 💬 Ask me about the heavy penguin!
+- This is Aven!
+
+<p align="center">
+  <img src=https://i.ibb.co/7Gh9gPH/Untitled-Artwork.png>
+</p>
+
 <!--
 **AvengedA/AvengedA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
