@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Data Science in a bootcamp that began in March!
+- 🌱 I am about to embark on a new data engineering journey
 - 💬 Ask me about the heavy penguin!
 - This is Aven!
 
